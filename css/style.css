@@ -70,7 +70,7 @@ main {
 
 .card-container-2 {
   width: 100%;
-
+  margin-bottom: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -101,5 +101,3 @@ main {
   display: flex;
   justify-content: center;
 }
-
-/**********card-3**********/
